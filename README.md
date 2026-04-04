@@ -1,7 +1,7 @@
 # Global Power Plant EDA
 
 ## Overview  
-This project explores the Global Power Plant Database to understand how energy is produced worldwide and compare renewable and non-renewable sources.
+Explores the Global Power Plant Database to understand how energy is produced worldwide and compare renewable and non-renewable sources.
 
 ---
 
